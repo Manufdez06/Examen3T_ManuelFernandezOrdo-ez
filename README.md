@@ -1,4 +1,5 @@
 # Examen3T_ManuelFernandezOrdo-ez
+Comentarios genericos Diagrama de Clase
 En la primera relacion en la de sistema a clinica solo puede tener una clinica el sistema y al reves una clinica solo 
 le hace falta un sistema que guarde los datos. En la segunda relacion en la de clinica a consulta en una clinica puede haber
 de 0 consultas 1 dia a infinitas. Sin embargo en desde consultas a clinicas es lo mismo, puede haber 0 consultas en una clinica.
